@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/ApiServices/">
+    <Project Path="ApiService/ApiService.csproj" />
+  </Folder>
+  <Folder Name="/Data/">
+    <Project Path="AnalisisDeOpiniones.Data/AnalisisDeOpiniones.Data.csproj" />
+  </Folder>
+  <Folder Name="/Process/">
+    <Project Path="AnalisisDeOpiniones.service/AnalisisDeOpiniones.service.csproj" />
+  </Folder>
+</Solution>
